@@ -16,3 +16,21 @@
 }
 
 /* style your grid sections here!  */
+
+#britten h2{
+  color: darkred;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#britten h3{
+  color: lightgrey;
+  font-family: Spicy Rice',cursive;
+}
+#britten img{
+  width: 50%;
+}
+
+#britten ul {
+  color: lavender;
+  
+}
